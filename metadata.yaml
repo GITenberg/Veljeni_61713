@@ -1,5 +1,5 @@
 _repo: Veljeni_61713
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Mon frère Yves. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '42797'
     url: http://www.gutenberg.org/2009/agents/42797
     wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Loti, Pierre
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/853
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61713#Veljeni
 gutenberg_issued: '2020-03-30'
 gutenberg_type: Text
 identifiers:
