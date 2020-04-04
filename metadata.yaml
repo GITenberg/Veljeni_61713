@@ -1,0 +1,37 @@
+_repo: Veljeni_61713
+_version: 0.0.1
+alternative_title: Mon frère Yves. Finnish
+contributor:
+  translator:
+    agent_name: Palola, Eino
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '42797'
+    url: http://www.gutenberg.org/2009/agents/42797
+    wikipedia: https://fi.wikipedia.org/wiki/Eino_Palola
+creator:
+  author:
+    agent_name: Loti, Pierre
+    aliases:
+    - Viaud, Louis Marie Julien
+    - Viaud, Julien
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '853'
+    url: http://www.gutenberg.org/2009/agents/853
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_Loti
+description: ''
+gutenberg_issued: '2020-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61713'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Veljeni
+url: http://www.gutenberg.org/ebooks/61713
